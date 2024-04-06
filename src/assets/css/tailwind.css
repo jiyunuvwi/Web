@@ -799,6 +799,9 @@ video {
 .top-20{
   top: 5rem !important;
 }
+.top-25{
+    top: 6.25rem !important;
+}
 .top-3{
   top: 0.75rem !important;
 }
@@ -889,6 +892,10 @@ video {
 .mx-6{
   margin-left: 1.5rem !important;
   margin-right: 1.5rem !important;
+}
+.mx-10{
+  margin-left: 2.5rem !important;
+  margin-right: 2.5rem !important;
 }
 .mx-auto{
   margin-left: auto !important;
